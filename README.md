@@ -19,3 +19,5 @@ git config --global user.email "email@demo.com"
 git config --global core.editor sublime_text.exe
 git config --list
 ```
+
+Esta línea fue creada en la rama master.
